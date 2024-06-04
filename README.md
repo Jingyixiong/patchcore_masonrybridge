@@ -1,1 +1,2 @@
-# patchcore_masonrybridge
+## This is the official repository for the paper 
+## Anomaly detection of cracks in synthetic masonry arch bridge point clouds using fast point feature histograms and PatchCore
